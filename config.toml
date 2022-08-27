@@ -1,7 +1,8 @@
 baseURL = 'http://santoshkatageri.github.io/myblog'
 languageCode = 'en-us'
-title = 'Santosh Katageri's Blog'
+title = "Santosh Katageri's Blog"
 theme = 'm10c'
+
 [params]
   author = "Santosh Katageri"
   description = "A blog about all things technical."
@@ -9,9 +10,9 @@ theme = 'm10c'
   [[params.social]]
     icon = "github"
     name = "GitHub"
-    url = "https://github.com/santoshkatageri"
-
+    url = "https://github.com/_santoshkatageri"
+  
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/spkatageri"
+    url = "https://twitter.com/_spkatageri"
