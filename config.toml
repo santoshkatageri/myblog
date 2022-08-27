@@ -10,9 +10,9 @@ theme = 'm10c'
   [[params.social]]
     icon = "github"
     name = "GitHub"
-    url = "https://github.com/_santoshkatageri"
+    url = "https://github.com/santoshkatageri"
   
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/_spkatageri"
+    url = "https://twitter.com/spkatageri"
